@@ -40,7 +40,7 @@ Este sitio no es solo una vitrina digital, sino una herramienta pedagógica que:
 
 **Contacto del autor**:  
 [Github | mikel-btw]  
-[Correo | mikel@congresofilosofia.org]
+[Correo | contacto@congresofilosofia.org]
 [Correo Personal | angeloso74@hotmail.com]
 
 ---
