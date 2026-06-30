@@ -1,47 +1,40 @@
-# Congreso Filosófico: "Razonamiento vs Inteligencia Artificial"
+# Congreso de Filosofía — IE José Celestino Mutis
 
-**Sitio web oficial del Congreso Filosófico 2024– IE José Celestino Mutis**  
-**Desarrollado por: Miguel Angel Osorio Orduz, Juan Camilo Arciniegas Medina, Miguel Angel Neira Martinez**
+Sitio web oficial del **XII Congreso de Filosofía** de la Institución Educativa José Celestino Mutis (Bucaramanga, Colombia).
 
-## Descripción General
+🔗 [congresofilosofia.org](https://congresofilosofia.org)
 
-Este sitio web fue creado como una plataforma digital para el *Congreso Filosófico 2024* del colegio **Institución Educativa José Celestino Mutis**, con el objetivo de reunir, presentar y exponer diversas ponencias de estudiantes y docentes en torno a temas contemporáneos de filosofía. La página busca ser un espacio accesible, claro y funcional que sirva como archivo digital y punto de encuentro para los participantes y el público en general.
+## Tema de esta edición
 
-## Tema Central del Congreso
+> **"La privacidad y vigilancia en la era digital"**
+> ¿Quién nos observa en el mundo digital? Una reflexión sobre los límites entre la privacidad y la vigilancia en la era tecnológica.
 
-> **"Razonamiento vs Inteligencia Artificial"**  
-> Un análisis crítico desde la filosofía moderna y contemporánea, abordando las implicaciones éticas, lógicas y existenciales del desarrollo de la inteligencia artificial frente a la capacidad racional del ser humano.
+Esta edición presenta 28 ponencias y cuenta con la participación de instituciones invitadas como la UIS, Vicente Azuero, IED Arcesio Salas y Comfenalco, entre otras.
 
+## Sobre el proyecto
 
-## Funcionalidades del Sitio
+El sitio nació en 2024 como plataforma digital para archivar y exponer las ponencias de estudiantes y docentes del Congreso. Hoy mantiene ese propósito: ser un punto de encuentro y archivo digital para cada edición del evento.
 
-- Página principal con introducción al congreso.
-- Secciones de ponencias individuales, organizadas por autores.
-- Acceso a documentos o ensayos desarrollados por los ponentes.
-- Diseño responsivo, optimizado para dispositivos móviles y escritorio.
-- Estética sobria con enfoque académico.
+El Congreso es una iniciativa de la profesora **María Inés Castellanos Fajardo**, con doce años de trayectoria en la institución.
 
+## Estado técnico del repositorio
 
-## Autor y Filosofía del Proyecto
+Este repositorio contiene una **exportación estática** del sitio (generada con un plugin de WordPress tipo Simply Static a partir del sitio original en WordPress + Kubio). Incluye:
 
-Este sitio fue diseñado, desarrollado y publicado por **Miguel Angel Osorio Orduz, Juan Camilo Arciniegas Medina, Miguel Angel Neira Martinez**.
+- `index.html` — página principal
+- `nosotros/` — sección "Nosotros"
+- `ponencias/` — sección "Ponencias"
+- `category/`, `*-sitemap.xml`, `sitemap_index.xml`, `robots.txt` — artefactos de SEO/sitemap heredados de WordPress (Yoast)
 
-El proyecto nace como una forma de unir dos pasiones: el pensamiento crítico y la tecnología. Busca además dejar un legado digital en su institución educativa, facilitando nuevas formas de expresión académica para futuras generaciones.
+No hay proceso de build: es HTML/CSS/JS plano, listo para servirse tal cual desde cualquier hosting estático (GitHub Pages, Netlify, etc.).
 
-## Inspiración y Contexto
+> Nota: el sitio en producción (congresofilosofia.org) sigue corriendo sobre WordPress al momento de este commit. Este repo es la base para la migración a estático.
 
-Este sitio no es solo una vitrina digital, sino una herramienta pedagógica que:
-- Democratiza el acceso a la producción filosófica escolar.
-- Promueve el uso de herramientas digitales para eventos académicos.
-- Plantea preguntas sobre el papel de la IA, la razón y el sentido de la existencia desde una mirada estudiantil.
+## Desarrollado por
 
+Miguel Ángel Osorio Orduz, Juan Camilo Arciniegas Medina, Miguel Ángel Neira Martinez
 
----
+## Contacto
 
-**Contacto del autor**:  
-[Github | mikel-btw]  
-[Correo | contacto@congresofilosofia.org]
-[Correo Personal | angeloso74@hotmail.com]
-
----
-
+- Correo del proyecto: [contacto@congresofilosofia.org](mailto:contacto@congresofilosofia.org)
+- Ubicación: Cra. 3W #57-14, Barrio Mutis, Bucaramanga
