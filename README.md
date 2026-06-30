@@ -32,7 +32,7 @@ No hay proceso de build: es HTML/CSS/JS plano, listo para servirse tal cual desd
 
 ## Desarrollado por
 
-Miguel Ángel Osorio Orduz, Juan Camilo Arciniegas Medina, Miguel Ángel Neira Martinez
+Miguel Ángel Osorio Orduz
 
 ## Contacto
 
