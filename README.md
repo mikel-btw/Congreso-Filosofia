@@ -2,7 +2,7 @@
 
 Sitio web oficial del **XII Congreso de Filosofía** de la Institución Educativa José Celestino Mutis (Bucaramanga, Colombia).
 
-🔗 [congresofilosofia.org](https://xii.congresofilosofia.org) (Produccion - Sin terminar)
+🔗 [xii.congresofilosofia.org](https://xii.congresofilosofia.org) (Produccion - Sin terminar)
 
 ## Tema de esta edición
 
