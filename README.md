@@ -2,6 +2,7 @@
 
 **Sitio web oficial del Congreso Filosófico 2024– IE José Celestino Mutis**  
 **Desarrollado por: Miguel Angel Osorio Orduz, Juan Camilo Arciniegas Medina, Miguel Angel Neira Martinez**
+**Link del congreso: xi.congresofilosofia.org (https://xi.congresofilosofia.org)** 
 
 ## Descripción General
 
