@@ -5,7 +5,7 @@
 
 ## Descripción General
 
-Este sitio web fue creado como una plataforma digital para el *Congreso Filosófico 2024* del colegio **Institución Educativa José Celestino Mutis**, con el objetivo de reunir, presentar y exponer diversas ponencias de estudiantes y docentes en torno a temas contemporáneos de filosofía. La página busca ser un espacio accesible, claro y funcional que sirva como archivo digital y punto de encuentro para los participantes y el público en general.
+Este sitio web fue creado como una plataforma digital para el *Congreso Filosófico 2024* del colegio **Institución Educativa José Celestino Mutis**, con el objetivo de reunir, presentar y exponer diversas ponencias de estudiantes y docentes en torno a temas contemporáneos de filosofía.
 
 ## Tema Central del Congreso
 
