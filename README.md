@@ -19,8 +19,7 @@ Este sitio web fue creado como una plataforma digital para el *Congreso Filosóf
 - Página principal con introducción al congreso.
 - Secciones de ponencias individuales, organizadas por autores.
 - Acceso a documentos o ensayos desarrollados por los ponentes.
-- Diseño responsivo, optimizado para dispositivos móviles y escritorio.
-- Estética sobria con enfoque académico.
+- Diseño responsivo, optimizado para dispositivos móviles y escritorio.
 
 
 ## Autor y Filosofía del Proyecto
